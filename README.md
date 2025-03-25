@@ -1,4 +1,4 @@
-## Projeto 03: Site Lanchonete da Renata
+## Atividade Node JS "SCSS"
 
 ### Requisitos da atividade:
 
